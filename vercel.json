@@ -1,0 +1,4 @@
+{
+  "redirects": [{ "source": "/bundle.html", "destination": "/", "permanent": false }],
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/gate" }]
+}
